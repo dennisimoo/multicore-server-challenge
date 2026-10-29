@@ -1,0 +1,74 @@
+submissions/asm-epoll-dennisimoo/src/bcrypt.inc
+  s_a8ac94fe81bc16::t_64442bfa6a38ee 1-134
+submissions/asm-epoll-dennisimoo/src/defs.inc
+  s_a8ac94fe81bc16::t_64442bfa6a38ee 1-245
+submissions/asm-epoll-dennisimoo/README.md
+  s_a8ac94fe81bc16::t_64442bfa6a38ee 1-133,151-218
+  s_a8ac94fe81bc16::t_e5f161b40da7ec 134-150
+submissions/asm-epoll-dennisimoo/src/crypto.s
+  s_a8ac94fe81bc16::t_64442bfa6a38ee 1-1561
+submissions/asm-epoll-dennisimoo/src/readb.s
+  s_a8ac94fe81bc16::t_64442bfa6a38ee 1-2156
+submissions/asm-epoll-dennisimoo/src/readr.s
+  s_a8ac94fe81bc16::t_64442bfa6a38ee 1-334
+submissions/asm-epoll-dennisimoo/src/server.s
+  s_a8ac94fe81bc16::t_64442bfa6a38ee 1-862
+submissions/asm-epoll-dennisimoo/start.sh
+  s_a8ac94fe81bc16::t_64442bfa6a38ee 1-16
+submissions/asm-epoll-dennisimoo/src/json.s
+  s_a8ac94fe81bc16::t_64442bfa6a38ee 1-2026
+submissions/asm-epoll-dennisimoo/src/pgio.s
+  s_a8ac94fe81bc16::t_64442bfa6a38ee 1-775
+submissions/asm-epoll-dennisimoo/src/pg.s
+  s_a8ac94fe81bc16::t_64442bfa6a38ee 1-1628
+submissions/asm-epoll-dennisimoo/src/rt.s
+  s_a8ac94fe81bc16::t_64442bfa6a38ee 1-539
+submissions/asm-epoll-dennisimoo/.gitignore
+  s_a8ac94fe81bc16::t_64442bfa6a38ee 1-3
+submissions/asm-epoll-dennisimoo/src/api.s
+  s_a8ac94fe81bc16::t_64442bfa6a38ee 1-2445
+submissions/asm-epoll-dennisimoo/src/egress.s
+  s_a8ac94fe81bc16::t_64442bfa6a38ee 1-719
+submissions/asm-epoll-dennisimoo/src/gzip.s
+  s_a8ac94fe81bc16::t_64442bfa6a38ee 1-1595
+submissions/asm-epoll-dennisimoo/src/http.s
+  s_a8ac94fe81bc16::t_64442bfa6a38ee 1-1549
+submissions/asm-epoll-dennisimoo/src/writer.s
+  s_a8ac94fe81bc16::t_64442bfa6a38ee 1-441
+submissions/asm-epoll-dennisimoo/src/render.s
+  s_a8ac94fe81bc16::t_64442bfa6a38ee 1-423
+submissions/asm-epoll-dennisimoo/src/sql.s
+  s_a8ac94fe81bc16::t_64442bfa6a38ee 1-285
+submissions/asm-epoll-dennisimoo/install.sh
+  s_a8ac94fe81bc16::t_64442bfa6a38ee 1-7
+submissions/asm-epoll-dennisimoo/src/main.s
+  s_a8ac94fe81bc16::t_64442bfa6a38ee 1-510
+submissions/asm-epoll-dennisimoo/src/bcrypt.s
+  s_a8ac94fe81bc16::t_64442bfa6a38ee 1-4026
+submissions/asm-epoll-dennisimoo/src/cpu.s
+  s_a8ac94fe81bc16::t_64442bfa6a38ee 1-59
+submissions/asm-epoll-dennisimoo/src/bcq.s
+  s_a8ac94fe81bc16::t_64442bfa6a38ee 1-230
+submissions/asm-epoll-dennisimoo/LICENSE
+  s_a8ac94fe81bc16::t_64442bfa6a38ee 1-21
+submissions/asm-epoll-dennisimoo/src/app.inc
+  s_a8ac94fe81bc16::t_64442bfa6a38ee 1-317
+submissions/asm-epoll-dennisimoo/build.sh
+  s_a8ac94fe81bc16::t_64442bfa6a38ee 1-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8ce253971ea85011e8e7126dca2b27326f6c1ac8",
+  "prompts": {},
+  "sessions": {
+    "s_a8ac94fe81bc16": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7b5591ff-8040-4c30-9b24-a724e8d5660d",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "randomperson12344 <4dennisk@gmail.com>"
+    }
+  }
+}
